@@ -1,0 +1,17 @@
+Codigo del enunciado: accuracy=0.9833, tiempo=1.59 s, 360 predicciones
+
+Version         p   Accuracy   Diferencias con el enunciado
+v1 (DAG, A)     1     0.9833                             0
+v1 (DAG, A)     4     0.9833                             0
+v1 (DAG, A)     8     0.9833                             0
+v2 A            4     0.9833                             0
+v2 B            4     0.9833                             0
+v2 A            8     0.9833                             0
+v2 B            8     0.9833                             0
+v3 1x1          1     0.9833                             0
+v3 1x8 (A)      8     0.9833                             0
+v3 2x4          8     0.9833                             0
+v3 4x2          8     0.9833                             0
+v3 8x1 (B)      8     0.9833                             0
+
+RESULTADO: TODAS LAS VERSIONES COINCIDEN CON EL ENUNCIADO
